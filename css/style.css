@@ -1,0 +1,102 @@
+.navbar {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+}
+
+nav {
+  color: white;
+}
+
+nav,
+main {
+  background: linear-gradient(116.82deg, #000000 0%, rgba(0, 0, 0, 0.69) 100%);
+}
+
+.nav-item {
+  margin-right: 55px;
+}
+
+.button-cart {
+  background-color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+
+.button-cart i {
+  margin-left: 10px;
+}
+
+.content {
+  font-family: 'Poppins', sans-serif;
+}
+
+.content h1 {
+  font-size: 125px;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 50px;
+  margin-bottom: 64px;
+}
+
+.content .txt-opacity {
+  font-size: 300px;
+  font-weight: bold;
+  position: absolute;
+  top: 170px;
+  left: 200px;
+  opacity: 5%;
+}
+
+.content .description {
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+.content .price {
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+.button-primary {
+  background-color: #fff;
+  font-weight: 700;
+  color: #000000;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+
+.visit-us {
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 76px;
+}
+
+.visit-us i {
+  margin-right: 10px;
+  color: white;
+}
+
+.content img {
+  margin-top: 80px;
+}
+
+.side-img {
+  margin-top: 132px;
+  position: absolute;
+  right: 0;
+  overflow: hidden;
+  transform: rotate(-19deg);
+  width: 528px;
+  height: 528px;
+  top: 0;
+  left: 740px;
+  background: radial-gradient(50% 50% at 50% 50%, #13208f 0%, rgba(6, 67, 222, 0) 100%);
+}
